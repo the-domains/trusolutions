@@ -1,0 +1,28 @@
+name: TruSolutions
+favicon: null
+layout_spectrum: 0.2312744720838964
+typography_spectrum: 0.9153908402658999
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.545589595567435
+  lightness: 0.023234217893332243
+  saturation: 0.8766092294827104
+  rhythmicContrast: 0.14355760114267468
+purpose: []
