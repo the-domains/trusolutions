@@ -1,28 +1,40 @@
-name: TruSolutions
 favicon: null
-layout_spectrum: 0.2312744720838964
-typography_spectrum: 0.9153908402658999
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: TruSolutions
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.545589595567435
-  lightness: 0.023234217893332243
-  saturation: 0.8766092294827104
-  rhythmicContrast: 0.14355760114267468
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.3107769
+  brandStrength: 0.7681704
+  lightness: 0.5576441
+  brandColors:
+    - '#F5F7F6'
+    - '#2C2424'
+    - '#D19A05'
+    - '#8CBE82'
+    - '#0100BC'
+  rhythmicContrast: 0.664787
+typography_spectrum: 0.2593985
+layout_spectrum: 0.1729323
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
